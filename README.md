@@ -2,6 +2,11 @@
 
 ссылка на проект: @AgentCentury21_bot
 
+скриншоты бота:
+https://raw.githubusercontent.com/baylliner2255/Ai-assistent-for-real-estate/refs/heads/main/Снимок%20экрана%202025-02-27%20в%2013.16.26.png
+[
+](https://raw.githubusercontent.com/baylliner2255/Ai-assistent-for-real-estate/refs/heads/main/Снимок%20экрана%202025-02-27%20в%2013.16.47.png)![image](https://github.com/user-attachments/assets/b63ec7f8-ede0-462d-8098-0ff49ec9d124)
+
 ## Описание проекта
 
 Проект направлен на создание **AI-ассистента** для real estate агентства, который будет автоматизировать взаимодействие с клиентами. Основная цель — улучшить качество обслуживания клиентов, сократить нагрузку на сотрудников и повысить эффективность обработки запросов.
